@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/buki_test_v2.1/static/css/main.03d3307a.chunk.css",
+    "main.js": "/buki_test_v2.1/static/js/main.fa3f2ef1.chunk.js",
+    "main.js.map": "/buki_test_v2.1/static/js/main.fa3f2ef1.chunk.js.map",
+    "runtime-main.js": "/buki_test_v2.1/static/js/runtime-main.fa592a8f.js",
+    "runtime-main.js.map": "/buki_test_v2.1/static/js/runtime-main.fa592a8f.js.map",
+    "static/js/2.36045dc0.chunk.js": "/buki_test_v2.1/static/js/2.36045dc0.chunk.js",
+    "static/js/2.36045dc0.chunk.js.map": "/buki_test_v2.1/static/js/2.36045dc0.chunk.js.map",
+    "index.html": "/buki_test_v2.1/index.html",
+    "precache-manifest.9308417bcef161ef5da9bb7347928b1a.js": "/buki_test_v2.1/precache-manifest.9308417bcef161ef5da9bb7347928b1a.js",
+    "service-worker.js": "/buki_test_v2.1/service-worker.js",
+    "static/css/main.03d3307a.chunk.css.map": "/buki_test_v2.1/static/css/main.03d3307a.chunk.css.map",
+    "static/media/App.css": "/buki_test_v2.1/static/media/Arial.07d53b5b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa592a8f.js",
+    "static/js/2.36045dc0.chunk.js",
+    "static/css/main.03d3307a.chunk.css",
+    "static/js/main.fa3f2ef1.chunk.js"
+  ]
+}
